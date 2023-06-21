@@ -1,4 +1,4 @@
-# note_app
+# Note App
 ![image](https://github.com/TashM26/Note-App/assets/137183001/e29f8455-6f27-4e0f-a5eb-6e214587f2d8)
 ![image](https://github.com/TashM26/Note-App/assets/137183001/19a2c443-00e5-414a-aae8-815353e3c85f)
 
