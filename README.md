@@ -1,4 +1,5 @@
 <h1 align = "center"> Note App </h1>
+
 "Note App" is a simple note taking and management application that uses several useful libraries, including "provider", "hive" and "intl".
 
 The application allows users to create, edit and delete notes for personal use. It uses the "provider" library to manage the state of the application and ensure that the interface is updated efficiently when data changes. Thanks to this library, users can easily interact with notes and get instant updates.
